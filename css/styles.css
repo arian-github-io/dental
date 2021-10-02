@@ -1,0 +1,149 @@
+body{
+	font-family: system-ui;
+	background-image:url(../fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	margin: 0;
+
+}
+.div1{
+	text-align: right;
+	padding: 30px;
+	font-size: 150%;
+}
+.a_1{
+	padding: 10px;
+	border:1px #efb3b3 solid;
+	border-radius: 8px;
+	background-color: #fff4f4;
+	border-right:2px solid #da7777;
+	border-bottom:2px solid #da7777;
+	text-decoration: none;
+	color: #da7777;
+}
+a#inicio{
+	text-align: left;
+}
+
+.informacion{
+	display: inline-block;
+	vertical-align: top;
+	position:relative;
+	border:1px #efb3b3 solid;
+	padding: 5px;
+	border-radius: 8px;
+	background-color: #fff4f4;
+	border-right:2px solid #da7777;
+	border-bottom:2px solid #da7777;
+	left: 5%;
+}
+.titulo-info{
+	display: inline-block;
+	vertical-align: top;
+	color: #c15c5c;
+	position: relative;
+	left: 5%;
+	
+}
+
+.gift{
+	position:absolute;
+	
+}
+div#vacio{
+	width: 100%;
+	height: 700px;
+}
+section#contenedor{
+	border-radius: 8px;
+	margin: auto;
+	width: 95%;
+	height: 1000px;
+	background-color: rgb(255, 255, 255);
+	border-top: #c15c5c 10px solid;
+	
+	
+}
+div#relleno{
+	margin: auto;
+	width: 80%;
+	height: 1000px;
+	padding: 20px;
+
+}
+div#menu{
+	width: 100;
+}
+.gif{
+	margin: 30px;
+	width:300px;
+	border-radius: 8px;
+	border: 1px #efb3b3 solid;
+	border-right:2px solid #da7777;
+	border-bottom:2px solid #da7777;
+}
+
+.maquina{
+	position: relative;
+	margin: 30px;
+	left: 345px;
+	border-radius: 8px;
+	border: 1px #efb3b3 solid;
+	border-right:2px solid #da7777;
+	border-bottom:2px solid #da7777;
+}
+.titulo-info2{
+	vertical-align: top;
+	color: #c15c5c;
+	position: relative;
+	left: 5%;
+	
+}
+.abajo{
+	position:relative;
+	bottom: 0;
+	list-style: none;
+	color: rgb(0, 0, 0);
+	border-top: solid black 1px;
+	
+}
+.informacion_footer{
+	text-align: center;
+	font-size: 110%;
+}
+.bodyall{
+	background-color: rgba(0, 0, 0, 0.055);
+}
+.botonsubir{
+	padding: 10px;
+	border:1px #efb3b3 solid;
+	border-radius: 8px;
+	background-color: #fff4f4;
+	border-right:2px solid #da7777;
+	border-bottom:2px solid #da7777;
+	text-decoration: none;
+	color: #da7777;
+	
+}
+.flecha{
+	text-align: end;
+	position:absolute;
+	bottom: 0;
+	right: -4%;
+	
+}
+h1{
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 500%;
+	position: absolute;
+	color: #ac0202;
+	border: #ac7474 3px solid;
+	border-right: #8a3939 5px solid;
+	border-bottom: #8a3939 5px solid;
+
+	
+	top: 0;
+	left: 50px;
+}
